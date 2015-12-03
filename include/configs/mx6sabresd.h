@@ -19,15 +19,15 @@
 #endif
 
 #define CONFIG_MACH_TYPE	3980
-#define CONFIG_MXC_UART_BASE	UART1_BASE
-#define CONFIG_CONSOLE_DEV		"ttymxc0"
+#define CONFIG_MXC_UART_BASE	UART2_BASE
+#define CONFIG_CONSOLE_DEV		"ttymxc1"
 #define CONFIG_MMCROOT			"/dev/mmcblk2p2"
 #if defined(CONFIG_MX6Q)
 #define CONFIG_DEFAULT_FDT_FILE	"imx6q-sabresd-ldo.dtb"
 #elif defined(CONFIG_MX6DL)
 #define CONFIG_DEFAULT_FDT_FILE	"imx6dl-sabresd-ldo.dtb"
 #endif
-#define PHYS_SDRAM_SIZE		(1u * 1024 * 1024 * 1024)
+#define PHYS_SDRAM_SIZE		(2u * 1024 * 1024 * 1024)
 
 #define CONFIG_SUPPORT_EMMC_BOOT /* eMMC specific */
 
