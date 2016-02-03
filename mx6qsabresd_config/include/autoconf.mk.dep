@@ -12,16 +12,16 @@ include/config/auto.conf: ../include/common.h ../include/linux/kconfig.h \
  ../arch/arm/include/asm/proc-armv/system.h ../include/linux/types.h \
  ../include/linux/posix_types.h ../include/linux/stddef.h \
  ../arch/arm/include/asm/posix_types.h \
- /home/angel/bombardier-bsp/build/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdbool.h \
+ /home/angel/bombardier-bsp/emsv5board/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdbool.h \
  ../include/linux/string.h ../arch/arm/include/asm/string.h \
  ../include/linux/linux_string.h ../include/linux/stringify.h \
  ../arch/arm/include/asm/ptrace.h \
  ../arch/arm/include/asm/proc-armv/ptrace.h \
- /home/angel/bombardier-bsp/build/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdarg.h \
+ /home/angel/bombardier-bsp/emsv5board/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdarg.h \
  ../include/linux/kernel.h ../include/part.h ../include/ide.h \
  ../include/common.h ../include/flash.h ../include/image.h \
  ../include/compiler.h \
- /home/angel/bombardier-bsp/build/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stddef.h \
+ /home/angel/bombardier-bsp/emsv5board/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stddef.h \
  ../arch/arm/include/asm/byteorder.h \
  ../include/linux/byteorder/little_endian.h ../include/linux/compiler.h \
  ../include/linux/compiler-gcc.h ../include/linux/compiler-gcc4.h \
@@ -83,7 +83,7 @@ include/asm/arch/imx-regs.h:
 
 ../arch/arm/include/asm/posix_types.h:
 
-/home/angel/bombardier-bsp/build/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdbool.h:
+/home/angel/bombardier-bsp/emsv5board/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdbool.h:
 
 ../include/linux/string.h:
 
@@ -97,7 +97,7 @@ include/asm/arch/imx-regs.h:
 
 ../arch/arm/include/asm/proc-armv/ptrace.h:
 
-/home/angel/bombardier-bsp/build/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdarg.h:
+/home/angel/bombardier-bsp/emsv5board/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdarg.h:
 
 ../include/linux/kernel.h:
 
@@ -113,7 +113,7 @@ include/asm/arch/imx-regs.h:
 
 ../include/compiler.h:
 
-/home/angel/bombardier-bsp/build/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stddef.h:
+/home/angel/bombardier-bsp/emsv5board/tmp/sysroots/i686-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stddef.h:
 
 ../arch/arm/include/asm/byteorder.h:
 
